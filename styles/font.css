@@ -9,13 +9,13 @@
 /*Aeonik font imported below*/
 @font-face {
     font-family:'Aeonik';
-    src: url(/assets/fonts/AeonikTRIAL-Bold.otf);
+    src: url(./assets/fonts/AeonikTRIAL-Bold.otf);
 }
 @font-face {
     font-family:'Aeonik';
-    src: url(/assets/fonts/AeonikTRIAL-Light.otf);
+    src: url(./assets/fonts/AeonikTRIAL-Light.otf);
 }
 @font-face {
     font-family:'Aeonik';
-    src: url(/assets/fonts/AeonikTRIAL-Regular.otf);
+    src: url(./assets/fonts/AeonikTRIAL-Regular.otf);
 }

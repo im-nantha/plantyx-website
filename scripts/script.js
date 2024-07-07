@@ -2,7 +2,7 @@ $(document).ready(function () {
   //dynamic
   let object = [
     {
-      image: "../assets/images/fiddle-leaf.png",
+      image: "./assets/images/fiddle-leaf.png",
       plantName: "Fiddle-leaf fig",
       rate: "$110.99",
     },
@@ -22,7 +22,7 @@ $(document).ready(function () {
       rate: "$113.99",
     },
     {
-      image: "../assets/images/fiddle-leaf.png",
+      image: "./assets/images/fiddle-leaf.png",
       plantName: "Fiddle-leaf fig",
       rate: "$114.99",
     },
@@ -61,11 +61,11 @@ $(document).ready(function () {
   let newSection = document.createElement("section");
   let imageOne = document.createElement("img");
   imageOne.classList.add("first-image");
-  imageOne.src = "../assets/images/plants-on-self.png";
+  imageOne.src = "./assets/images/plants-on-self.png";
   imageOne.alt = "plant-image";
   let imageTwo = document.createElement("img");
   imageTwo.classList.add("second-image");
-  imageTwo.src = "../assets/images/alo-like-plant.png";
+  imageTwo.src = "./assets/images/alo-like-plant.png";
   imageTwo.alt = "plant-image";
   newSection.classList.add("two-images-section");
   newSection.appendChild(imageOne);

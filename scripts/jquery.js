@@ -14,10 +14,10 @@ $(document).ready(function () {
       autoplay: false,
       arrows: true,
       prevArrow: `<div class="gallery-icons review-left">
-        <img class="review-icons" src="../assets/images/left-small.png" alt="Left-arrow-image">
+        <img class="review-icons" src="./assets/images/left-small.png" alt="Left-arrow-image">
       </div>`,
       nextArrow: `<div class="gallery-icons review-right">
-        <img class="review-icons" src="../assets/images/right-small.png" alt="Right-arrow-image">
+        <img class="review-icons" src="./assets/images/right-small.png" alt="Right-arrow-image">
         </div>`,
       responsive: [
         {
