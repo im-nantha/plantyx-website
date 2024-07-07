@@ -1,0 +1,21 @@
+/*Familjen-Grotesk font imported below*/
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500&display=swap');
+/*Quicksand font imported below*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
+/*Belleza font imported below*/
+@import url('https://fonts.googleapis.com/css2?family=Belleza&display=swap');
+/*Lora font imported below*/
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+/*Aeonik font imported below*/
+@font-face {
+    font-family:'Aeonik';
+    src: url(/assets/fonts/AeonikTRIAL-Bold.otf);
+}
+@font-face {
+    font-family:'Aeonik';
+    src: url(/assets/fonts/AeonikTRIAL-Light.otf);
+}
+@font-face {
+    font-family:'Aeonik';
+    src: url(/assets/fonts/AeonikTRIAL-Regular.otf);
+}
