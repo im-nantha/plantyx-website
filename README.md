@@ -1,4 +1,4 @@
-# Project Title
+# Plantyx Project
 
 This is a personal frontend training project created using HTML, CSS, JavaScript, and jQuery.
 
